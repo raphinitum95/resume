@@ -1,0 +1,30 @@
+@import "src/assets/stylesheets/_mixins.scss";
+
+.navbar{
+  width:100%;
+  padding: 4rem 0;
+
+  .nav{
+    ul{
+      @include vertical-list;
+    }
+  }
+
+  .profile{
+    width: 100%;
+    margin: 1rem 0 2rem;
+
+    img{
+      width: 150px;
+      margin: 0 auto 1rem;
+      border-radius: 50%;
+    }
+
+    .name{
+      font-weight: bold;
+      font-size: 20px;
+      @include reset-list;
+    }
+  }
+
+}

@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'OstrichSansBlack';
+  src: local('OstrichSansBlack'), url("../../assets/fonts/ostrich-sans-black.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'OstrichSansBold';
+  src: local('OstrichSansBold'), url("../../assets/fonts/ostrich-sans-bold.ttf") format('truetype');
+}
+.container{
+  height: 100vh;
+  background: url("../../assets/images/UT.jpg") no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.typing {
+  position: absolute;
+  top: 35%;
+  left: 15%;
+  text-align: left;
+
+  & > * span{
+    font-family: OstrichSansBold, sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+
+    b{
+      font-family: OstrichSansBlack, sans-serif;
+      font-weight: 900;
+      font-size: 50px;
+    }
+  }
+}
