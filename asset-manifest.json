@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.c22bf132.chunk.css",
+    "main.css": "/resume/static/css/main.a78dedc3.chunk.css",
     "main.js": "/resume/static/js/main.0b4b5052.chunk.js",
     "main.js.map": "/resume/static/js/main.0b4b5052.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.64f02ed5.js",
@@ -8,9 +8,9 @@
     "static/js/2.fb63048f.chunk.js": "/resume/static/js/2.fb63048f.chunk.js",
     "static/js/2.fb63048f.chunk.js.map": "/resume/static/js/2.fb63048f.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.8f1fb7084bc1ad4a0b238b95f3eca687.js": "/resume/precache-manifest.8f1fb7084bc1ad4a0b238b95f3eca687.js",
+    "precache-manifest.90da18cacbce83fac6b3c95c00b8c033.js": "/resume/precache-manifest.90da18cacbce83fac6b3c95c00b8c033.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.c22bf132.chunk.css.map": "/resume/static/css/main.c22bf132.chunk.css.map",
+    "static/css/main.a78dedc3.chunk.css.map": "/resume/static/css/main.a78dedc3.chunk.css.map",
     "static/js/2.fb63048f.chunk.js.LICENSE.txt": "/resume/static/js/2.fb63048f.chunk.js.LICENSE.txt",
     "static/media/UT.jpg": "/resume/static/media/UT.64425ce7.jpg",
     "static/media/Home.module.scss": "/resume/static/media/ostrich-sans-bold.354ba80e.ttf",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.64f02ed5.js",
     "static/js/2.fb63048f.chunk.js",
-    "static/css/main.c22bf132.chunk.css",
+    "static/css/main.a78dedc3.chunk.css",
     "static/js/main.0b4b5052.chunk.js"
   ]
 }
