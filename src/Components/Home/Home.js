@@ -1,11 +1,15 @@
 import React, {Component} from 'react';
 import TypingComponent from "../Typed/Typed";
 import styles from'./Home.module.scss';
+import UT from "../../assets/images/UT.jpg"
 
 class Home extends Component {
     render() {
         return (
             <div id='home' className={styles.container}>
+                <div id={styles.overlay}/>
+                <img src={UT} alt={""} />
+
                 <h1 className={styles.typing}>
                     <TypingComponent
                         strings={[

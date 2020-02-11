@@ -25,7 +25,6 @@ $asideWidth: 300px;
   }
 
   .content{
-    background-color: blue;
     @include display-stats(block, 100%, 100vh);
     margin-left:auto;
     margin-right: 0;
@@ -91,7 +90,6 @@ $asideWidth: 300px;
   .App{
     .content{
       width: calc(100% - 300px);
-      background-color: yellow;
     }
   }
 }

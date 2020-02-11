@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd7ec3ab-4643-4150-b329-07095bbccbca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/Navigation.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Typed/Typed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Typed/typed.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/App/App.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Content/Content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-dashed.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-inline-italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-inline-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ostrich-sans-rounded.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/UT.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581315631485</updated>
       <workItem from="1581315635838" duration="1808000" />
-      <workItem from="1581318143489" duration="15388000" />
+      <workItem from="1581318143489" duration="16837000" />
     </task>
     <servers />
   </component>
